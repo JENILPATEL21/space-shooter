@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public Transform bulletspawnpoint;
     public float fireRate;
     float nextfiretime;
-     public int playerhealth = 100;
+    public int playerhealth = 100;
     public int currenthealth;
     public TextMeshProUGUI health;
 
