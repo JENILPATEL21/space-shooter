@@ -105,7 +105,7 @@ MonoBehaviour:
   - {fileID: 1161504036981084694}
   enemybullet: {fileID: 9117539159370922027, guid: 2c95121901db03745a1d7d5d09e3aa79, type: 3}
   health: 10
-  healthbar: {fileID: -770847755291720006, guid: df9b4dc1f383a0848b44e1a7df6285df, type: 3}
+  healthbar: {fileID: 4794014370670998691}
 --- !u!61 &-2816999550275948286
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -236,6 +236,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df9b4dc1f383a0848b44e1a7df6285df, type: 3}
+--- !u!114 &4794014370670998691 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -770847755291720006, guid: df9b4dc1f383a0848b44e1a7df6285df, type: 3}
+  m_PrefabInstance: {fileID: 4020206656193851929}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e421ba1af2ac0418b82f97aec1da3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &8228096018406199650 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5042541861989786491, guid: df9b4dc1f383a0848b44e1a7df6285df, type: 3}
